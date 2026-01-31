@@ -1,4 +1,4 @@
-# Final Project — Data Analysis & Machine Learning (Python)
+#Data Analysis & Machine Learning (Python)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
