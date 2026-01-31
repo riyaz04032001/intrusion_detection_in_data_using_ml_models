@@ -20,7 +20,6 @@ A complete, notebook-based workflow that covers **data loading → cleaning → 
 > Data folder: `datasets/` :contentReference[oaicite:3]{index=3}
 
 ---
-<img width="584" height="384" alt="image" src="https://github.com/user-attachments/assets/9c3de3dd-9d07-4243-99e1-1ac0ffe72648" />
 
 
 ## 🧰 Tech Stack
