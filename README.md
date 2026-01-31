@@ -34,5 +34,5 @@ A complete, notebook-based workflow that covers **data loading → cleaning → 
 ```text
 projects/
 ├─ Final_Project.ipynb
-├─ datasets/
+├─ data/
 └─ README.md
