@@ -30,6 +30,14 @@ A complete, notebook-based workflow that covers **data loading → cleaning → 
 
 ---
 
+## 👤 Author
+**Riyaz Dudekula**  
+- LinkedIn: https://linkedin.com/in/driyaz0401  
+- Email: mailto:driyaz0401@gmail.com
+
+
+---
+
 ## 📂 Repository Structure
 ```text
 projects/
@@ -37,10 +45,4 @@ projects/
 ├─ data/
 └─ README.md
 
----
-
-## 👤 Author
-**Riyaz Dudekula**  
-- LinkedIn: https://linkedin.com/in/driyaz0401  
-- Email: mailto:driyaz0401@gmail.com
 
