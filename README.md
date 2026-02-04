@@ -36,3 +36,11 @@ projects/
 ├─ Final_Project.ipynb
 ├─ data/
 └─ README.md
+
+---
+
+## 👤 Author
+**Riyaz Dudekula**  
+- LinkedIn: https://linkedin.com/in/driyaz0401  
+- Email: mailto:driyaz0401@gmail.com
+
